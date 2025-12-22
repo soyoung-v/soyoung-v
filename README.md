@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 Today I'm growing as a developer
+🌱 Today I'm growing as a developer
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssy-v&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/ssy-v"
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-📌 Frontend 공부 중 (HTML / CSS / JS)
+
