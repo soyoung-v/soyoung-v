@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 Today I'm growing as a developer
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ssy-v&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soyoung-v&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/soyoung-v"
   width="600"
