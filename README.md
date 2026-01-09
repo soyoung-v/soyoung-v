@@ -18,11 +18,8 @@
 </div>
 
 <br><br><br>
-## 📚 포트폴리오와 공부 기록
-### Portfolio & Study Archive
-해당 노션은 저의 공부 기록과 참여했던 프로젝트들이 담긴 포트폴리오가 포함되어 있습니다.
-진행 사항과 작업을 자유롭게 확인하실 수 있습니다.<br>
-<br>
+## 📚 Portfolio & Study Archive
+
 👉 [Visit My Notion Portfolio](https://www.notion.so/Develop-Portfolio-2e15fd58489280deb886d15991203cb2)
 
 ---
