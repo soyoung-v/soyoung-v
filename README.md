@@ -1,4 +1,4 @@
-<h1 align="center">🌼🙂 I'm soyoung</h1>
+<h1 align="center">🌼 I'm soyoung</h1>
 
 <br><br>
 <div align=center>
