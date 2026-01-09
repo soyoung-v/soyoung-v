@@ -1,6 +1,6 @@
-<h1 align="center">🌷 I'm soyoung</h1>
+<h1 align="center">🐷 I'm soyoung</h1>
 
-<br><br><br>
+<br><br>
 <div align=center>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
